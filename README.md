@@ -14,12 +14,12 @@ pip install requests
 ```
 
 ## Register deezer app
-You need to create an [OAUTH2](https://developers.deezer.com/myapps) app first on deezer dev.
- Create the app with followind data (it doesn't really matter though since you only need to obtain the access token once);
-App name: move_from_local
-Domain: http://localhost
-Redirect URL: http://localhost
-Link to your term of use: http://localhost
+You need to create a [deezer OAUTH2 app](https://developers.deezer.com/myapps) first on deezer dev. Create the app with followind data (it doesn't really matter though since you only need to obtain the access token once);
+ 
+App name: move_from_local \
+Domain: http://localhost \
+Redirect URL: http://localhost \
+Link to your term of use: http://localhost \
 Description: Move local music library to deezer
 
 ## Obtain deezer access token
