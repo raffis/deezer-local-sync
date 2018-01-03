@@ -1,4 +1,4 @@
-# Symc with deezer
+# Sync with deezer
 
 Sync your local music library to your deezer account
 
